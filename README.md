@@ -214,7 +214,7 @@ This is a six-person academic project at Aditya University.
 |------|--------|
 | Sayyad Sameer | Cloud Infrastructure + AI Layer + Platform Lead |
 | Kantipudi Vivek Vardhan | DevOps Intelligence |
-| Janapareddy Dyns Gowrish | Full-Stack Intelligence |
+| Janapareddy Dyns Gowrish | Full-Stack Intelligence & DevOps Architecture Maintainence |
 | Bikkavolu Srivallisa Sai Veerabhadra Ayyan | Data Engineering Intelligence |
 | Muramalla Ambica Sai Ram | Mobile Backend Intelligence |
 | Bogavalli Akash | Frontend Portal |
